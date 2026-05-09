@@ -2,8 +2,21 @@ import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const tags = fileData.frontmatter?.tags
+const TagList: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzComponentProps) => {
+  let tags = fileData.frontmatter?.tags
+  if (fileData.slug === "index") {
+    const allTags = new Set<string>()
+    for (const file of allFiles) {
+      const fileTags = file.frontmatter?.tags
+      if (fileTags) {
+        for (const tag of fileTags) {
+          allTags.add(tag)
+        }
+      }
+    }
+    tags = Array.from(allTags).sort()
+  }
+
   if (tags && tags.length > 0) {
     return (
       <ul class={classNames(displayClass, "tags")}>

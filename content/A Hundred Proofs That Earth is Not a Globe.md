@@ -1,0 +1,39 @@
+---
+created: 2025-08-24
+---
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEjO8itYjXI0Ki-A1BoGfX7Z2knHtu0DPhK2kjuVVl4IZwSPaM4rKkYvIxR5zGVFntw9L5JE067X8KF-BYMzaWTdYEcgpWFyEho73j8s9KWwANQZt2mlkYoXzaN9QBRZDk_0yB5FxL7T8bZaSbET2Vpn1XJRcD-pUCVhKH0X6MiThwT9IjHFnbKhfR0MHOw=w177-h320)](https://blogger.googleusercontent.com/img/a/AVvXsEjO8itYjXI0Ki-A1BoGfX7Z2knHtu0DPhK2kjuVVl4IZwSPaM4rKkYvIxR5zGVFntw9L5JE067X8KF-BYMzaWTdYEcgpWFyEho73j8s9KWwANQZt2mlkYoXzaN9QBRZDk_0yB5FxL7T8bZaSbET2Vpn1XJRcD-pUCVhKH0X6MiThwT9IjHFnbKhfR0MHOw)
+
+William Carpenter's work "A Hundred Proofs That Earth is Not a Globe," written in 1885, should be examined not as a text on geography or physics, but as a perfect example of a flawed architectural argument and a belief system built against evidence-based reality. The value of this text lies not in the accuracy of its content, but in the valuable case study it provides to understand how fundamentally rotten an idea is built despite the established knowledge of its era, how utterly devoid of logical consistency it can be, and by what psychological motivations it stays afloat.
+
+### 1. Rejection of the Principled Framework: Canceling the Knowledge of its Own Era
+
+The robustness of an argument is measured by its adherence to fundamental principles—observable reality, logical consistency, and scientific methodology. Carpenter's work commits a principled error right from the start by rejecting not modern scientific evidence, but **fundamental facts that were known for hundreds, even thousands of years even during the time he lived**. The facts he ignores while building his arguments are:
+
+- **Astronomical Observations Known Since Antiquity:** As early as around 350 BC, Aristotle observed that during lunar eclipses, the shadow of the Earth falling on the Moon was always circular. This is the most fundamental proof that the only way an object can cast a circular shadow from every angle is by being spherical. Carpenter ignores this 2200-year-old foundational observation.
+- **The Fact of 360 Years of Geographical Exploration:** The completion of Ferdinand Magellan's expedition circumnavigating the Earth in 1522 occurred 363 years before Carpenter wrote his book. The fact that the Earth could be circumnavigated was not a theory for the 19th century, but a proven geographical fact known for centuries.
+- **Established Mathematics and Geodesy:** Since Eratosthenes calculated the Earth's circumference with astonishing accuracy using simple geometry in the 3rd century BC, geodesy (the science of measuring the Earth's shape and dimensions) had made tremendous progress. By 1885, it had even been precisely calculated through intercontinental trigonometric measurements that the planet was an "oblate spheroid."
+
+Carpenter is rejecting an accumulation of knowledge stretching from Ancient Greece to Renaissance explorers, not just his contemporary scientists. This is akin to refusing to lay the foundation of a building and starting directly from the roof; the collapse of the structure is inevitable.
+
+### 2. Systemic Rediagnosis: The Problem is Not the Earth's Shape, but the Author's Methodology
+
+The real "problem" in Carpenter's text is not the claim that the Earth is spherical, but the faulty methodology the author uses to refute this claim. When a rediagnosis of the source of the problem is made, what we encounter is the author's systematic misinterpretation of fundamental phenomena like perspective, gravity, and atmospheric refraction, which were textbook knowledge for the scientific community at the time. For instance, classic "proofs" like the Bedford Level experiment in 1838 had been repeated in 1870, before Carpenter published his book, by scientists like Alfred Russel Wallace himself, taking into account the effects of atmospheric refraction, and the curvature of the Earth had been proven once again. Carpenter deliberately ignores the scientific debates and results of his own era, presenting debunked experiments as absolute proof. Therefore, what should be criticized is not the shape of the earth, but the reasoning process itself used to arrive at this conclusion.
+
+### 3. Logical Stress Test: The Absurdity of the "Proofs"
+
+The inconsistency of the author's logic chain can easily be seen by applying his arguments to a different scenario. Carpenter presents the hull of a distant ship disappearing below the horizon line as proof that water is flat, and claims this is only due to perspective. Let's put this logic to a "stress test": By the same logic, seen from the perspective of an ant, we could claim that the feet of a person standing behind a soccer ball a few meters away are not visible "due to perspective." Yet, what happens in both cases is simple: A curvature between the observer and the object hides the lower parts of the object first. Carpenter's logic is doomed to collapse even in the face of the simplest everyday observations.
+
+### 4. Psychological Motivation Analysis: Victorian Rebellion Against Authority
+
+Understanding the psychological motivations behind an argument is critical to deciphering its structure. "A Hundred Proofs" feeds less on scientific curiosity and more on a deep distrust and rebellion against the established order and intellectual authority (the scientific community, educational institutions) as a reaction to the rising industrial and scientific progress in the late 19th century. The tone of the text reflects a need to "prove that everything you have been told is a lie" rather than a desire to explore. It is an effort to create a sort of intellectual sanctuary by offering a simple, intuitive, and "common sense" based world model against complex and difficult-to-understand scientific explanations. The argument is the product of an emotional rejection rather than rational analysis.
+
+### 5. The Dangerous Legacy of the Conspiracy Theory
+
+In the deepest layer of the text lies much more than a simple geographical claim: the architecture of a global conspiracy theory. The book goes beyond "proving" that the earth is flat; it invites the reader to approach everything with suspicion and question the "official narrative." This feeds the belief that there is a "great secret" and that powers like governments and scientists collude to hide this secret from humanity. Therefore, "A Hundred Proofs" is not just a series of faulty arguments, but also a gateway that draws the reader into a broader conspiracy narrative. The problem is no longer physical evidence, but who controls "the truth."
+
+This flawed architecture used by Carpenter in 1885 forms the basis of today's most dangerous conspiracy theories as well. From anti-vaccine sentiment to claims that 5G is harmful, from fake pandemics to political conspiracy theories, all are built on the same faulty logic: rejecting proven scientific data, harboring deep distrust towards experts, and presenting a simple, satisfying, but false "secret knowledge" instead of complex facts. This approach not only misinforms individuals but also damages the social fabric by eroding societal trust in science, medicine, and legitimate institutions. Examining Carpenter's text is critical to understanding the roots of this dangerous mindset and to developing an intellectual defense mechanism against its reflections today.
+
+Of course, there have been claims in history that looked like conspiracy theories but later turned out to be true. However, we can verify these exceptions not by approaching everything like a conspiracy theory, but by evaluating them with a correct methodology centered on evidence and logical consistency. Ultimately, as Ross Douthat noted, it is important to understand why such claims are usually false:
+
+"Conspiracy theories are generally false because those who produce them are outside of power and try to impose a narrative order on a world they don't fully understand."

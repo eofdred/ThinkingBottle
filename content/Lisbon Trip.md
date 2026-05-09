@@ -1,7 +1,9 @@
 ---
 created: 2025-05-17
+tags:
+  - travel
+  - life
 ---
-
 Classifying places in Lisbon using their geographical locations can provide great convenience in terms of trip planning.
 
 If we start from the coastline, we can classify it as east, west, and far west by taking Praça do Comércio (Commerce Square) as the center. Right next to Praça do Comércio is the Museu do Dinheiro, and as you proceed east, you will see the Sé de Lisboa (Lisbon Cathedral), Igreja de Santo António de Lisboa (Church of Saint Anthony of Lisbon), and Church Nossa Senhora da Conceição Velha.

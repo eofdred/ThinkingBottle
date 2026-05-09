@@ -1,7 +1,10 @@
 ---
 created: 2025-10-07
+tags:
+  - philosophy
+  - psychology
+  - sociology
 ---
-
 Today is October 7, 2025. About 10 years ago, in September 2015, the Adobe Photoshop application capable of running on the iPad was introduced at the iPad Pro launch, and on stage, a new Adobe Photoshop tool was used to make a woman smile in a photograph previously taken with an expressionless face.
 
 Below on the left is the original, and on the right, you see the version with a very, very slight smile added.

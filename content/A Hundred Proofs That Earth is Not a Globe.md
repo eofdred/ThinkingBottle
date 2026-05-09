@@ -1,7 +1,11 @@
 ---
 created: 2025-08-24
+tags:
+  - philosophy
+  - reading
+  - history
+  - sociology
 ---
-
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjO8itYjXI0Ki-A1BoGfX7Z2knHtu0DPhK2kjuVVl4IZwSPaM4rKkYvIxR5zGVFntw9L5JE067X8KF-BYMzaWTdYEcgpWFyEho73j8s9KWwANQZt2mlkYoXzaN9QBRZDk_0yB5FxL7T8bZaSbET2Vpn1XJRcD-pUCVhKH0X6MiThwT9IjHFnbKhfR0MHOw=w177-h320)](https://blogger.googleusercontent.com/img/a/AVvXsEjO8itYjXI0Ki-A1BoGfX7Z2knHtu0DPhK2kjuVVl4IZwSPaM4rKkYvIxR5zGVFntw9L5JE067X8KF-BYMzaWTdYEcgpWFyEho73j8s9KWwANQZt2mlkYoXzaN9QBRZDk_0yB5FxL7T8bZaSbET2Vpn1XJRcD-pUCVhKH0X6MiThwT9IjHFnbKhfR0MHOw)
 
 William Carpenter's work "A Hundred Proofs That Earth is Not a Globe," written in 1885, should be examined not as a text on geography or physics, but as a perfect example of a flawed architectural argument and a belief system built against evidence-based reality. The value of this text lies not in the accuracy of its content, but in the valuable case study it provides to understand how fundamentally rotten an idea is built despite the established knowledge of its era, how utterly devoid of logical consistency it can be, and by what psychological motivations it stays afloat.

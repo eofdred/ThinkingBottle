@@ -1,7 +1,10 @@
 ---
 created: 2025-08-24
+tags:
+  - philosophy
+  - reading
+  - sociology
 ---
-
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjmdvfqS6bM7sFbpqoxn-ghHeajFYXnKmjf7zVRepIp6Fl733V7PcBbbmRexp5umV-v-8VhE1AyfgsrVXgqAH9eaXtCulbDPDCwb_Jpb3DCif0cIs62y132mVh5_D1YQ0BZBxVk7_lIEg_4O5tWz6i5R_PSxSZuWkvlmZLe_oSPVYW1Ne1eMKptD9WtPk0=w260-h400)](https://blogger.googleusercontent.com/img/a/AVvXsEjmdvfqS6bM7sFbpqoxn-ghHeajFYXnKmjf7zVRepIp6Fl733V7PcBbbmRexp5umV-v-8VhE1AyfgsrVXgqAH9eaXtCulbDPDCwb_Jpb3DCif0cIs62y132mVh5_D1YQ0BZBxVk7_lIEg_4O5tWz6i5R_PSxSZuWkvlmZLe_oSPVYW1Ne1eMKptD9WtPk0)
 
 Andreas Malm's provocative manifesto, "How to Blow Up a Pipeline," makes a bold diagnosis regarding the inadequacy of the climate movement's current pacifist stance. However, correctly diagnosing the disease of a system is not enough to prescribe the right medicine; it is also necessary to accurately determine where the disease is in the body, that is, the real source of the problem. While Malm accurately observes the inertia in the climate crisis, he misses his target with the "property destruction" solution he proposes. This is because the problem is not in the conscience of individuals or companies, but an architectural flaw lying directly in the inaction of states and lawmakers.

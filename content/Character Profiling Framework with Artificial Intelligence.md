@@ -1,7 +1,12 @@
 ---
 created: 2025-08-22
+tags:
+  - psychology
+  - artificial-intelligence
+  - life
+  - sociology
+  - technology
 ---
-
 I prepared this framework to use the features of the Gemini language model. As of late 2025, it would be quite difficult to apply this framework with an artificial intelligence tool other than Gemini. In Gemini, you can add a text editor to the knowledge base of a chatbot. This is a feature present in all alternative models anyway. But the difference with Gemini is that if the file you upload is in Google Docs format, when you edit that file, the file in the chatbot's memory is also updated. Therefore, making changes without reloading the file stops being a chore.
 
 In this framework, I called the tasks that need to be followed sequentially "tasks" and put them into writing in a certain order. I will explain what these will be useful for later.

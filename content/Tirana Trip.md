@@ -1,5 +1,8 @@
 ---
 created: 2025-08-24
+tags:
+  - travel
+  - life
 ---
 Tirana became a non-touristy city that we loved very much during the time we spent there. The history of the country and its confrontation with this history has truly created a very different atmosphere. Being between Turkey and Italy in terms of both geographical location and culture has created a distinct synthesis. To enjoy this city, it is important to have a superficial knowledge of the Enver Hoxha era. In summary, the country tries to become independent after separating from the Ottoman Empire, but a few years later it is occupied during World War I. Then, while trying to become independent again, it is occupied by Italy with the start of World War II, subsequently occupied by Nazi Germany, and with the withdrawal of Nazi forces, Enver Hoxha takes power. Every event makes you miss the previous one. During the Enver Hoxha era, the country was governed in an ultra-closed manner. The political narrative shifts to the "enemies within" mode. The ruling party manages all trade and appointments in the country. The first two museums I will mention create a striking confrontation with this period.
 

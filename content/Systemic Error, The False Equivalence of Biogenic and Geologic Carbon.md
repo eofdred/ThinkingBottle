@@ -1,7 +1,9 @@
 ---
 created: 2026-01-07
+tags:
+  - climate
+  - environment
 ---
-
 > "Conspiracy theories are usually false; because those who propose them are far from power and try to impose a narrative order on a world they do not fully understand." — Ross Douthat
 
 This analysis questions the possibility that portraying the agricultural sector as the primary culprit of climate change is a systemic strategy implemented by the fossil fuel industry to distract attention.

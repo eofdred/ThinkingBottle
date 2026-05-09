@@ -1,5 +1,10 @@
 ---
 created: 2025-02-18
+tags:
+  - philosophy
+  - psychology
+  - life
+  - sociology
 ---
 Although "narrative dissonance," the English equivalent of the term "[ludonarrative dissonance](https://en.wikipedia.org/wiki/Ludonarrative_dissonance#:~:text=Ludonarrative%20dissonance%20is%20the%20conflict,narrative%20told%20through%20the%20gameplay.)" introduced by Clint Hocking in 2007, is generally used to express the inconsistency between the message and the story pattern in computer games, I believe it can also be applied to real life and used to analyze social patterns in many subjects, since everyone has a narrative about their own life and also the reality.
 

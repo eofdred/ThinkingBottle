@@ -1,7 +1,10 @@
 ---
 created: 2025-03-01
+tags:
+  - language
+  - philology
+  - terminology
 ---
-
 We need to approach this topic with the premise that the presence of foreign words in Turkish terminology is not a problem. The correct goal here is to keep the comprehensibility of the terminology by the public at the highest level. I cannot think of any action that would serve the opposite of this goal as much as changing the entire terminology from top to bottom. Because we are in contact with world languages and the societies that speak these languages, there has been and will continue to be a two-way exchange of terms between Turkish and other languages. There can be no non-fantastic explanation for fighting against this.
 
 There are some problems with certain terms that entered Turkish previously. While these have lost their importance or undergone changes in the languages they were taken from, they have remained exactly the same in our language and have lost their connection with the current reality. In this case, since the term has no equivalent in any language, reconsidering it can be beneficial in terms of the term's comprehensibility.

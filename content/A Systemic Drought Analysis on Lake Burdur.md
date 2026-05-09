@@ -1,11 +1,13 @@
 ---
 created: 2025-08-24
+tags:
+  - climate
+  - environment
 ---
-
-|   |
-|---|
-|[![](https://blogger.googleusercontent.com/img/a/AVvXsEirLqouDeDu5cYoeMgXqPw2b3okkaZvr9MVW6GC5BCnWfLCHUOIqpgusrFY_X8IzG2vT8cfO1K_CdXCC0extThXW2WcK_9Js3IippHnhOGnFCUrRiVg_ccFpc8oNXRKYb_FcKjL1qOM3uZrAkER9Ic6O_arVUprmVxF_HGBxQ7LizpiMDmA76JlZIWz6rw=w640-h220)](https://blogger.googleusercontent.com/img/a/AVvXsEirLqouDeDu5cYoeMgXqPw2b3okkaZvr9MVW6GC5BCnWfLCHUOIqpgusrFY_X8IzG2vT8cfO1K_CdXCC0extThXW2WcK_9Js3IippHnhOGnFCUrRiVg_ccFpc8oNXRKYb_FcKjL1qOM3uZrAkER9Ic6O_arVUprmVxF_HGBxQ7LizpiMDmA76JlZIWz6rw)|
-|Four lakes in the Lakes Region experiencing drought at different levels|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![](https://blogger.googleusercontent.com/img/a/AVvXsEirLqouDeDu5cYoeMgXqPw2b3okkaZvr9MVW6GC5BCnWfLCHUOIqpgusrFY_X8IzG2vT8cfO1K_CdXCC0extThXW2WcK_9Js3IippHnhOGnFCUrRiVg_ccFpc8oNXRKYb_FcKjL1qOM3uZrAkER9Ic6O_arVUprmVxF_HGBxQ7LizpiMDmA76JlZIWz6rw=w640-h220)](https://blogger.googleusercontent.com/img/a/AVvXsEirLqouDeDu5cYoeMgXqPw2b3okkaZvr9MVW6GC5BCnWfLCHUOIqpgusrFY_X8IzG2vT8cfO1K_CdXCC0extThXW2WcK_9Js3IippHnhOGnFCUrRiVg_ccFpc8oNXRKYb_FcKjL1qOM3uZrAkER9Ic6O_arVUprmVxF_HGBxQ7LizpiMDmA76JlZIWz6rw) |
+| Four lakes in the Lakes Region experiencing drought at different levels                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 The issue of drought appears as a bigger problem every passing year than the last, and it is obvious that this problem will grow in the coming years. However, public discourse on this critical topic is often stuck within a superficial and misleading framework.
 

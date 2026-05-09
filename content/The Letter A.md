@@ -1,7 +1,8 @@
 ---
 created: 2025-02-17
+tags:
+  - typography
 ---
-
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEi1jmi-jy39DcLt39X_NCetFpSeG7rqWC3TRZmYzsk6qC3eCRkNwKNpXpcec84nsA0RtC65icX-NilEAWci_TPBRwtB3jShHRMzV0HsBCB5Y9AcNOrBD9JXWMqDhwQklRHWI8Fm6erCuesAshUivtx4J4FXvU7PPvQiVdWew86QkThy5u1BnRkjJjAVE5c)](https://blogger.googleusercontent.com/img/a/AVvXsEi1jmi-jy39DcLt39X_NCetFpSeG7rqWC3TRZmYzsk6qC3eCRkNwKNpXpcec84nsA0RtC65icX-NilEAWci_TPBRwtB3jShHRMzV0HsBCB5Y9AcNOrBD9JXWMqDhwQklRHWI8Fm6erCuesAshUivtx4J4FXvU7PPvQiVdWew86QkThy5u1BnRkjJjAVE5c)
 
 In the applications I use, typography is a subject I am very sensitive about. Last year, Microsoft changed the default font of its office applications, switching from Calibri to Aptos. This was a wonderful change. Calibri is one of the most frequently seen fonts. Along with Arial, another very common font, these two fonts make me extremely uncomfortable. Aptos has fixed many of its weaknesses and has become an objectively more legible font in every sense.

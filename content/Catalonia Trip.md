@@ -1,7 +1,9 @@
 ---
 created: 2025-07-20
+tags:
+  - travel
+  - life
 ---
-
 The first thing you should do when you come to Barcelona is check if there's a festival you can catch. Different types of festivals happen throughout the year, and it's very hard not to encounter one. Of course, there's no guarantee it will interest you. We were very lucky to catch the La Mercè Festival. This has been the official festival of the city since 1871, and because hundreds of events happen in parallel all over the city within a few days, it's a festival that feels like many festivals happening at once, taking place in September.
 
 |   |

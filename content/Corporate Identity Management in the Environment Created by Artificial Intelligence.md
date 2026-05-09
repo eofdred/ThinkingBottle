@@ -1,7 +1,9 @@
 ---
 created: 2025-09-16
+tags:
+  - artificial-intelligence
+  - technology
 ---
-
 In the pre-AI environment, corporate identity management was a term indexed to Google. The face of a corporation largely consisted of what appeared in search results and, to a lesser extent, photo-video based social media presence (Instagram, TikTok). In these, depending on the context, there was either information that appeared when the corporation's name was searched and an extension directing to the official website, or short descriptions appearing above website results with Google's "snippet" feature in searches made according to the corporation's feature, and other websites below it, which largely consisted of articles published on the internet. Private companies wanting to exploit this situation were preparing texts that appeared like blog posts on pages that only appeared in Google searches but whose path you couldn't find from the main page of their official websites, comparing their own products with competitors and highlighting their own products. But today, instead of establishing their own editorial teams, institutions can handle these tasks easier and cheaper by advertising to journalists.
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEixwSYfbE2TeBshzAMSLmrCISJTl290eiX95G3Zj9uC9I2pVZrq4joz5-qPD-mz8uLp-WkgE16rFLjfEMUVzVvGxXmE7OH1eFLYwE-CNOPr4w2aYW7Tvl6sqqF5l6RcE-KxlxUPNp89ztkEoGI90r2D8D_GoJV8UMOgkrpDTFF7TphH2PX07_-bfdcwY-U=w640-h640)](https://blogger.googleusercontent.com/img/a/AVvXsEixwSYfbE2TeBshzAMSLmrCISJTl290eiX95G3Zj9uC9I2pVZrq4joz5-qPD-mz8uLp-WkgE16rFLjfEMUVzVvGxXmE7OH1eFLYwE-CNOPr4w2aYW7Tvl6sqqF5l6RcE-KxlxUPNp89ztkEoGI90r2D8D_GoJV8UMOgkrpDTFF7TphH2PX07_-bfdcwY-U)

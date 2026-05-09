@@ -1,7 +1,10 @@
 ---
 created: 2022-06-24
+tags:
+  - language
+  - reading
+  - life
 ---
-
 Paul Stirling was an anthropologist who lived in the Sakaltutan and Elbaşı villages of Kayseri between 1949-1951 for his scientific studies. Later, he made various visits until the 90s to document social change. During these visits, his doctoral thesis titled "THE SOCIAL STRUCTURE OF TURKISH PEASANT COMMUNITIES," his 1965 monograph named Turkish Village, the 8000 pages of field notes he kept, and thousands of photographs could not be disseminated as much as they needed to be following his death in 1998. These contents can be accessed at this address.
 
 [http://era.anthropology.ac.uk/Era_Resources/Era/Stirling/index.html](http://era.anthropology.ac.uk/Era_Resources/Era/Stirling/index.html)

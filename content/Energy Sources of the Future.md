@@ -1,7 +1,9 @@
 ---
 created: 2016-07-14
+tags:
+  - climate
+  - environment
 ---
-
  [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhttmRtu9r59CI53Ef56SrMndXNPJ4JXM5NLQTl0YyZXE9juvMKALU3mQMFICMduXXY71c-pSxWd2jLSoa0Ajv4SAcKhvYKLcjeOq7rxjL3rjwbwS_al3Si4JCDUVElhX5M0W5QlHWzPQs/s640/risk_banner.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhttmRtu9r59CI53Ef56SrMndXNPJ4JXM5NLQTl0YyZXE9juvMKALU3mQMFICMduXXY71c-pSxWd2jLSoa0Ajv4SAcKhvYKLcjeOq7rxjL3rjwbwS_al3Si4JCDUVElhX5M0W5QlHWzPQs/s1600/risk_banner.png)
 
 Current energy sources [pose](http://www.epa.gov/climatechange/science/causes.html) a significant threat to our civilization. Today, a significant portion of electricity on Earth is produced using coal. This negatively affects the Earth's climate by emitting greenhouse gases, and if it continues like this, it seems we will destroy our own habitat. The energy sources of the future will allow us to maintain the continuity of our own species until we find another planet to live on and beyond.

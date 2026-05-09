@@ -1,7 +1,9 @@
 ---
 created: 2025-12-01
+tags:
+  - philosophy
+  - sociology
 ---
-
 ## TL;DR
 
 Knowing someone who knows a subject is just as critical a skill as knowing the subject itself. An "expert" whose knowledge you consult based on their title in a subject you have no idea about might not even have as much knowledge about that subject as you do.

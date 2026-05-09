@@ -1,7 +1,9 @@
 ---
 created: 2025-08-24
+tags:
+  - reading
+  - history
 ---
-
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEjtnkJRutqejg1PaAh2_SeEpz4FRoTwcS1HWjFVXB_T08bwyxXhI5-U_MpmGkw_qpqJTbZthW1_EoPG5bS6q7uPEfyDPCwTR9_6YGeLylEWj9S_phB3vqy8iqIX80JQdvcmDQfREPh59VUxGPbr7WVYHxwi5qw_sWszfIA6gEjidpsNPDvNJMidG4VXrk0)](https://blogger.googleusercontent.com/img/a/AVvXsEjtnkJRutqejg1PaAh2_SeEpz4FRoTwcS1HWjFVXB_T08bwyxXhI5-U_MpmGkw_qpqJTbZthW1_EoPG5bS6q7uPEfyDPCwTR9_6YGeLylEWj9S_phB3vqy8iqIX80JQdvcmDQfREPh59VUxGPbr7WVYHxwi5qw_sWszfIA6gEjidpsNPDvNJMidG4VXrk0)
 
 "Special Operations in the Age of Chivalry, 1100-1550," adapted from Yuval Noah Harari's doctoral thesis, is an early herald of the intellectual courage and narrative genius of the author, who would later fascinate millions of readers with works like "Sapiens." The book is a highly immersive and informative study that masterfully takes a modern military concept and applies it to the complex and often misunderstood battlefield of the Middle Ages, inviting the reader to look at an era they thought they knew with entirely new eyes.

@@ -25,19 +25,6 @@ This is **Thinking Bottle**. It is a personal digital garden and magazine where 
 
 ---
 
-## 📝 Recent Notes and Articles
-
-- [[The Bright Blind Spot]]
-- [[Energy Sources of the Future]]
-- [[Special Operations in the Age of Chivalry The Birth of a Master Narrative Architect]]
-- [[The Artificiality of Social Perception]]
-- [[Turkification of Terms]]
-- [[A Hundred Proofs That Earth is Not a Globe]]
-
-*(To list recent notes automatically on Quartz sites, you can also activate Quartz's own [Recent Notes component](https://quartz.jzhao.xyz/features/recent-notes) plugin.)*
-
----
-
 ## 🗂️ Explore by Topics
 
 Explore other articles according to the main themes you are interested in:

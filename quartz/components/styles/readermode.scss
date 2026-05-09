@@ -31,4 +31,8 @@
       opacity: 1;
     }
   }
+
+  & .explorer {
+    display: none !important;
+  }
 }

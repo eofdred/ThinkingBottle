@@ -126,14 +126,34 @@ button.desktop-explorer {
       overscroll-behavior: contain;
     }
 
-    & li > a {
-      color: var(--dark);
-      opacity: 0.75;
-      pointer-events: all;
+    & li {
+      margin-bottom: 0.6rem;
+      line-height: 1.3rem;
 
-      &.active {
-        opacity: 1;
-        color: var(--tertiary);
+      &:not(:has(> .folder-container)) {
+        display: flex;
+        align-items: flex-start;
+
+        &::before {
+          content: "•";
+          color: var(--tertiary);
+          margin-right: 0.5rem;
+          flex-shrink: 0;
+          font-size: 1.1rem;
+          line-height: 1.25rem;
+          opacity: 0.8;
+        }
+      }
+
+      & > a {
+        color: var(--dark);
+        opacity: 0.75;
+        pointer-events: all;
+
+        &.active {
+          opacity: 1;
+          color: var(--tertiary);
+        }
       }
     }
   }

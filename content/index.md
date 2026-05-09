@@ -2,8 +2,6 @@
 title: Thinking Bottle Home Page
 ---
 
-# Thinking Bottle
-
 **Independent essays, reviews, and field notes on technology, environment, society, and travel in English.**
 
 ---

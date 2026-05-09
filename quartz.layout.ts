@@ -44,6 +44,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.DesktopOnly(
+      Component.ConditionalRender({
+        component: Component.RecentNotes({
+          title: "Recent Writing",
+          limit: 3,
+          filter: (f) => f.slug !== "index" && !f.slug?.startsWith("tags/") && !f.slug?.startsWith("folders/"),
+        }),
+        condition: (page) => page.fileData.slug !== "index",
+      })
+    ),
   ],
   afterBody: [
     Component.ConditionalRender({

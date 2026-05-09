@@ -42,36 +42,10 @@ This is **Thinking Bottle**. It is a personal digital garden and magazine where 
 
 Explore other articles according to the main themes you are interested in:
 
-<div class="topic-grid">
-  <a href="tags/environment" class="topic-card environment">
-    <div class="topic-icon">🌿</div>
-    <div class="topic-content">
-      <h3>Environment & Energy</h3>
-      <p>Essays on ecological systems, climate analysis, and energy transitions.</p>
-    </div>
-  </a>
-  <a href="tags/technology" class="topic-card technology">
-    <div class="topic-icon">🧠</div>
-    <div class="topic-content">
-      <h3>Tech & Artificial Intelligence</h3>
-      <p>Investigating the cognitive, creative, and corporate impacts of AI.</p>
-    </div>
-  </a>
-  <a href="tags/sociology" class="topic-card sociology">
-    <div class="topic-icon">📖</div>
-    <div class="topic-content">
-      <h3>Sociology & Philosophy</h3>
-      <p>Communitarian responses, cognitive illusions, and belief structures.</p>
-    </div>
-  </a>
-  <a href="tags/travel" class="topic-card travel">
-    <div class="topic-icon">🌍</div>
-    <div class="topic-content">
-      <h3>Travel & Field Notes</h3>
-      <p>Dispatches, observations, and reflections from journeys worldwide.</p>
-    </div>
-  </a>
-</div>
+- **🌿 [[tags/environment|Environment & Energy]]** — Essays on ecological systems, climate analysis, and energy transitions.
+- **🧠 [[tags/technology|Tech & Artificial Intelligence]]** — Investigating the cognitive, creative, and corporate impacts of AI.
+- **📖 [[tags/sociology|Sociology & Philosophy]]** — Communitarian responses, cognitive illusions, and belief structures.
+- **🌍 [[tags/travel|Travel & Field Notes]]** — Dispatches, observations, and reflections from journeys worldwide.
 
 ---
 

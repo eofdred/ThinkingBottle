@@ -1,5 +1,5 @@
 ---
-title: Thinking Bottle Home Page
+title: Welcome traveller
 ---
 
 **Independent essays, reviews, and field notes on technology, environment, society, and travel in English.**

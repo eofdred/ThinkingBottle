@@ -29,10 +29,10 @@ This is **Thinking Bottle**. It is a personal digital garden and magazine where 
 
 Explore other articles according to the main themes you are interested in:
 
-- **🌿 [[tags/environment|Environment & Energy]]** — Essays on ecological systems, climate analysis, and energy transitions.
-- **🧠 [[tags/technology|Tech & Artificial Intelligence]]** — Investigating the cognitive, creative, and corporate impacts of AI.
-- **📖 [[tags/sociology|Sociology & Philosophy]]** — Communitarian responses, cognitive illusions, and belief structures.
-- **🌍 [[tags/travel|Travel & Field Notes]]** — Dispatches, observations, and reflections from journeys worldwide.
+- 🌿 #environment , #climate  — Essays on ecological systems, climate analysis, and energy transitions.
+- 🧠 #artificial-intelligence  — Investigating the cognitive, creative, and corporate impacts of AI.
+- 📖 #sociology , #psychology — Communitarian responses, cognitive illusions, and belief structures.
+- 🌍 #travel  — Dispatches, observations, and reflections from journeys worldwide.
 
 ---
 

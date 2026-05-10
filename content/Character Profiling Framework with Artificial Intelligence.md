@@ -7,7 +7,7 @@ tags:
   - sociology
   - technology
 ---
-I prepared this framework to use the features of the Gemini language model. As of late 2025, it would be quite difficult to apply this framework with an artificial intelligence tool other than Gemini. In Gemini, you can add a text editor to the knowledge base of a chatbot. This is a feature present in all alternative models anyway. But the difference with Gemini is that if the file you upload is in Google Docs format, when you edit that file, the file in the chatbot's memory is also updated. Therefore, making changes without reloading the file stops being a chore.
+I prepared this framework to use the features of the Gemini language model. Within current technological capabilities, Gemini stands out as the most efficient tool for this framework due to its deep integration with Google's file ecosystem. In Gemini, you can add a text editor to the knowledge base of a chatbot. This is a feature present in all alternative models anyway. But the difference with Gemini is that if the file you upload is in Google Docs format, when you edit that file, the file in the chatbot's memory is also updated. Therefore, making changes without reloading the file stops being a chore.
 
 In this framework, I called the tasks that need to be followed sequentially "tasks" and put them into writing in a certain order. I will explain what these will be useful for later.
 
@@ -15,7 +15,7 @@ In this framework, I called the tasks that need to be followed sequentially "tas
 
 Task 1: Copy and send the following prompt to Gemini 2.5 Pro:
 
-> I would like to conduct a character analysis using the Big Five framework. I want you to ask the relevant questions one by one, asking follow-up questions before moving on to the next question, and demanding specific examples to ensure you have enough insight for each question. When you complete the assessment, prepare a detailed report. This report should include the assessment for each of the five domains, all details, and quote my examples where necessary.
+> I would like to conduct a character analysis using the Big Five framework (a foundational model focusing on Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism). I want you to ask the relevant questions one by one, asking follow-up questions before moving on to the next question, and demanding specific examples to ensure you have enough insight for each question. When you complete the assessment, prepare a detailed report. This report should include the assessment for each of the five domains, all details, and quote my examples where necessary.
 
 Note: It would be easier if you ask for the report in Gemini's "Canvas" format after having enough conversation, but it's not mandatory.
 
@@ -23,27 +23,27 @@ Task 2: Paste the report you obtained into a Google Docs document named "Charact
 
 Task 3: Create a Gem named "Character Analysis" from Gemini and add the Google Docs file you prepared above to the knowledge base of this gem. Paste the text below into the prompt section of the Gem.
 
-> You know a lot about me and you will act like a mentor, an advisor or a therapist which ever makes sense for my question. You will help me discover myself and just answer my simpler questions. Check "Character profile" document carefully and if our discussions shed light to my character profile in a meaningful way, ask me to do amendments to the document and guide what to add where. If the topic we are discussing is not about enriching the character profile, refrain from citing my character traits unless it is asked. Think about this example, If i asked you i would like a particular game, your answer might contain some core traits about my character but for the followup questions, you shouldn't repeat analysis details and cite deep character traits every single time. Structure your output to be read easily. Use horizontal lines and Hierarchical headings when necessary. Most important think is that whole conversation must be in Turkish language.
+> You know a lot about me and you will act like a mentor, an advisor or a therapist which ever makes sense for my question. You will help me discover myself and just answer my simpler questions. Check "Character profile" document carefully and if our discussions shed light to my character profile in a meaningful way, ask me to do amendments to the document and guide what to add where. If the topic we are discussing is not about enriching the character profile, refrain from citing my character traits unless it is asked. Think about this example, If i asked you i would like a particular game, your answer might contain some core traits about my character but for the followup questions, you shouldn't repeat analysis details and cite deep character traits every single time. Structure your output to be read easily. Use horizontal lines and Hierarchical headings when necessary. Most important thing is that whole conversation must be in Turkish language.
 
 Task 4: Start a new conversation with this gem and write the following prompt as a new message:
 
-> I would like to conduct a character analysis using the HEXACO framework. Use the "Character Analysis" document in the knowledge base to fill in the relevant fields in the HEXACO analysis and ask me questions that do not overlap with the existing information. I want you to ask the relevant questions one by one, asking follow-up questions before moving on to the next question, and demanding specific examples to ensure you have enough insight for each question. When you complete the assessment, prepare a detailed report. This report should include the assessment for each of the six domains of the HEXACO framework, contain all details, and quote my examples where necessary.
+> I would like to conduct a character analysis using the HEXACO framework (an expanded model addressing six dimensions including Honesty-Humility and Emotionality). Use the "Character Analysis" document in the knowledge base to fill in the relevant fields in the HEXACO analysis and ask me questions that do not overlap with the existing information. I want you to ask the relevant questions one by one, asking follow-up questions before moving on to the next question, and demanding specific examples to ensure you have enough insight for each question. When you complete the assessment, prepare a detailed report. This report should include the assessment for each of the six domains of the HEXACO framework, contain all details, and quote my examples where necessary.
 
 Task 5: Create a tab named HEXACO in the character analysis document and paste this report.
 
 Task 6: Start a new conversation with this gem and write the following prompt as a new message:
 
-> I would like to conduct a character analysis using the "Enneagram of Personality Framework". Use the "character analysis" document in the knowledge base to fill in the relevant fields in the analysis and ask me questions that do not overlap with the information you will obtain from there. If you have enough information about me to fill out a report, generate a report. This report should include all details regarding the Enneagram of Personality Framework and quote my examples where necessary.
+> I would like to conduct a character analysis using the Enneagram of Personality Framework (a model focusing on nine distinct personality types and core motivations). Use the "character analysis" document in the knowledge base to fill in the relevant fields in the analysis and ask me questions that do not overlap with the information you will obtain from there. If you have enough information about me to fill out a report, generate a report. This report should include all details regarding the Enneagram of Personality Framework and quote my examples where necessary.
 
 Task 7: Create a tab named Enneagram of Personality in the character analysis document and paste this report.
 
 Task 8: Start a new conversation with this gem and write the following prompt as a new message:
 
-> I would like to conduct a character analysis using the MBTI Framework. Use the Character Analysis document to fill in the relevant fields in the analysis and ask me questions that do not overlap with the existing information. If you have enough information about me to fill out the report (you probably do), generate a report.
+> I would like to conduct a character analysis using the MBTI Framework (a model classifying cognitive preferences through four psychological dichotomies). Use the Character Analysis document to fill in the relevant fields in the analysis and ask me questions that do not overlap with the existing information. If you have enough information about me to fill out the report (you probably do), generate a report.
 
 Task 9: Create a tab named MBTI in the character analysis document and paste this report.
 
-**Congratulations! You now have solid baseline data for your character traits. You can now use the Gem you created to systematically profile your secondary traits.**
+**Congratulations! You now have a comprehensive starting point for making sense of your character traits. You can now use the Gem you created to systematically profile your secondary traits.**
 
 Here are some examples:
 

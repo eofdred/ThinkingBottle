@@ -35,7 +35,7 @@ PageTitle.css = `
 }
 .page-title-logo {
   width: 100%;
-  max-width: 120px;
+  max-width: 240px;
   height: auto;
   border-radius: 8px;
   transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);

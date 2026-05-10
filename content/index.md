@@ -14,7 +14,7 @@ title: Welcome traveller
 ---
 
 ## 📍 Starting Point
-This is **Thinking Bottle**. It is a personal digital garden and magazine where you can read in-depth on topics that are different but fundamentally shaped around the relationship between human, nature, and technology. If you are wondering "Where should I start?", you can check out these articles in different fields:
+This is **Thinking Bottle**. It is my personal digital garden where you can read in-depth on topics that are different but fundamentally shaped around the relationship between human, nature, and technology. If you are wondering "Where should I start?", you can check out these articles in different fields:
 
 - **Society & Politics:** [[Happiness is the Wrong Metric, A (Slightly) Liberal Communitarian Response to Populism]]
 - **Technology:** [[Corporate Identity Management in the Environment Created by Artificial Intelligence]]
@@ -36,7 +36,7 @@ Explore other articles according to the main themes you are interested in:
 
 ## 👤 About
 
-**Thinking Bottle** is a space of notes and thoughts at the intersection of academic research discipline and personal curiosities. The primary goal of the blog is to bring together complex systems, global events, and travel observations in as fluent English as possible.
+**Thinking Bottle** is my space of thought at the intersection of academic research discipline and my personal curiosities. The primary goal of these writings is to bring together complex systems, global events, and my travel observations in English language.
 
 > [!info] Links
 > [RSS](index.xml) • [About Me](Hello.md)

@@ -1,4 +1,5 @@
 @echo off
+cd /d %~dp0
 title Push Thinking Bottle to GitHub
 cls
 echo ==================================================

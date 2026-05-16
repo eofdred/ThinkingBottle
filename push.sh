@@ -1,4 +1,5 @@
 #!/bin/bash
+cd "$(dirname "$0")"
 
 # Thinking Bottle Git Bash Push Script
 clear
